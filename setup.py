@@ -11,7 +11,7 @@ setup(
     entry_points={
         'console_scripts': ['gmaster=gmaster:console_main'],
     },
-    author='zhouqian1',
-    author_email='zhouqian1@xunlei.com',
-    url='https://xlbj-gitlab.xunlei.cn/shoulei-service/gmaster',
+    author='eddyzhou',
+    author_email='zhouqian1103@gmail.com',
+    url='https://github.com/eddyzhou/gmaster',
 )
